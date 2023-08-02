@@ -1,6 +1,6 @@
 # card-matching-game-vue
 
-A game build using Vue.js framework based on [Building a Card Matching Game from Start to Finish Using Vue 3's Composition API in Under 2 Hours](https://www.youtube.com/watch?v=WQa9-4K3me4). The project use Composition API.
+A game build using Vue.js framework based on [Building a Card Matching Game from Start to Finish Using Vue 3's Composition API in Under 2 Hours](https://www.youtube.com/watch?v=WQa9-4K3me4) It serves as learning project for beginners.  
 
 ## Recommended IDE Setup
 
